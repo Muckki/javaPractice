@@ -1,0 +1,7 @@
+
+public class Sub {
+	public static void sub(String[] args) {
+		System.out.println("hi");
+	}
+}
+

@@ -1,0 +1,8 @@
+
+public class Main {
+	public static void main(String[] args) {
+		int dan;
+		String aa = "8 * " + dan + "=" + (8 * dan);
+		System.out.println(aa);
+	}
+}

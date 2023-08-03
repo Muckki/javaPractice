@@ -1,0 +1,11 @@
+
+public class Main {
+	public static void main(String[] args) {
+		int dan;
+		for(int i = 1 ; i<10 ; i++) {
+			dan = i;
+			String aa = "8 * " + dan + " = " + (8 * dan) + "\n";
+			System.out.println(aa);
+		}
+	}
+}
